@@ -1,5 +1,10 @@
 # Packagist metrics collector
 
+<a href="https://packagist.org/packages/metrixio/packagist"><img src="https://poser.pugx.org/metrixio/packagist/require/php"></a>
+<a href="https://packagist.org/packages/metrixio/packagist"><img src="https://poser.pugx.org/metrixio/packagist/version"></a>
+<a href="https://github.com/metrixio/packagist/actions"><img src="https://github.com/metrixio/packagist/actions/workflows/docker-image.yml/badge.svg"></a>
+<a href="https://packagist.org/packages/metrixio/packagist"><img src="https://poser.pugx.org/metrixio/packagist/downloads"></a>
+
 ![packagist](https://user-images.githubusercontent.com/773481/209584409-3275bfa7-f131-44de-b4c1-341d4b0cd3d3.png)
 
 This tool lets you easily gather data about downloads from Packagist.
